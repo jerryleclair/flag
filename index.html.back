@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./resources/css/style.css" type="text/css" rel="stylesheet" />
+    <title></title>
+  </head>
+  <body>
+    <div class="flag" background-image="freelance1-img_paris-arc.jpg">
+      <!--<img src="./resources/images/flag1.jpg">-->
+    <h1>What the Flag of the United States of America Means</h1>
+    <p>Text of the diatribe of the flag of the USA.</p>
+  </div>
+  </body>
+</html>
